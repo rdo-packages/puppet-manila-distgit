@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-404fb0c38e125a594336806aced3e8bae3dfc682	puppet-manila-distgit-ptl
+# UUID          Group Name
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
+f19f707568fba823b3e32bb8f07f3cdf04370231       	puppet-manila-distgit-core
+404fb0c38e125a594336806aced3e8bae3dfc682        	puppet-manila-distgit-ptl
+global:Registered-Users		Registered Users
