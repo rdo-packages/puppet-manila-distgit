@@ -10,7 +10,6 @@ Source0:        https://tarballs.openstack.org/%{name}/%{name}-%{version}.tar.gz
 
 BuildArch:      noarch
 
-Requires:       puppet-qpid
 Requires:       puppet-inifile
 Requires:       puppet-keystone
 Requires:       puppet-glance
