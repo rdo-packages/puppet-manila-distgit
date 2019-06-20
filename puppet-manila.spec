@@ -1,6 +1,6 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-manila
-Version:        13.3.1
+Version:        13.3.2
 Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Manila
 License:        ASL 2.0
@@ -47,6 +47,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/manila/
 
 
 %changelog
+* Thu Jun 20 2019 RDO <dev@lists.rdoproject.org> 13.3.2-1
+- Update to 13.3.2
+
 * Mon Oct 15 2018 RDO <dev@lists.rdoproject.org> 13.3.1-1
 - Update to 13.3.1
 
