@@ -72,3 +72,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/manila/
 
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-manila/commit/d5cbf5c1d89323eb287c47ad9213139af1d66a9a
