@@ -30,6 +30,7 @@ Requires:       puppet-glance
 Requires:       puppet-rabbitmq
 Requires:       puppet-stdlib
 Requires:       puppet-openstacklib
+Requires:       puppet-oslo
 Requires:       puppet >= 2.7.0
 
 %description
