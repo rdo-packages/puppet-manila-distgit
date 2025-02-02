@@ -27,6 +27,7 @@ BuildRequires:  openstack-macros
 Requires:       puppet-inifile
 Requires:       puppet-keystone
 Requires:       puppet-glance
+Requires:       puppet-oslo
 Requires:       puppet-rabbitmq
 Requires:       puppet-stdlib
 Requires:       puppet-openstacklib
